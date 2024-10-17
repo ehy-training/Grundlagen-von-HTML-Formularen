@@ -1,7 +1,7 @@
 /*---------------------
 Allgemeine Stile für 
 Grundlagen von HTML Formularen
-Version: 1.0.0
+Version: 1.2.0
 © 2024 Enno Hyttrek
 ehy.training@gmail.com
 https://ennohyttrek.de
@@ -49,8 +49,8 @@ figure {
 }
 
 
-section {
-    min-height: 100vh;
+main {
+    min-height: 50vh;
 }
 
 

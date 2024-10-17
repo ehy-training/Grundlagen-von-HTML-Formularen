@@ -3,7 +3,7 @@
 Enno Hyttrek, Oktober 2024
 ehy-training@gmail.com
 
-Version: 1.0.0
+Version: 1.2.0
 
 ## Was sind HTML-Formulare?
 
