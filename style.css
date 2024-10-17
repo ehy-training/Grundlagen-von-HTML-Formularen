@@ -1,0 +1,84 @@
+/*---------------------
+Allgemeine Stile für 
+Grundlagen von HTML Formularen
+Version: 1.0.0
+© 2024 Enno Hyttrek
+ehy.training@gmail.com
+https://ennohyttrek.de
+
+GNU General Public License GLPv3
+---------------------*/
+
+
+/*---------------------
+RESET
+---------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    scroll-behavior: smooth;
+}
+
+
+/*---------------------
+LAYOUT
+---------------------*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+figure {
+    margin-bottom: 1em;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1em 8px;
+}
+
+
+section {
+    min-height: 100vh;
+}
+
+
+
+
+/*---------------------
+TYPOGRAPHY
+---------------------*/
+
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga'1, 'calt'1;
+    /* fix for Chrome */
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+@supports (font-variation-settings: normal) {
+    :root {
+        font-family: InterVariable, sans-serif;
+    }
+}
+
+
+/*---------------------
+COLOR & STYLE
+---------------------*/
+
+footer {
+    border-top: 1px solid rgba(0,0,0,0.3);
+}

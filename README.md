@@ -1,5 +1,10 @@
 # Grundlagen von HTML-Formularen
 
+Enno Hyttrek, Oktober 2024
+ehy-training@gmail.com
+
+Version: 1.0.0
+
 ## Was sind HTML-Formulare?
 
 HTML-Formulare sind eine Möglichkeit, Daten von Benutzern zu erfassen und an einen Server zu senden. Sie bestehen aus einer Vielzahl von Eingabeelementen wie Textfeldern, Schaltflächen, Dropdown-Menüs und Kontrollkästchen, die es dem Benutzer ermöglichen, Informationen einzugeben und abzusenden.
