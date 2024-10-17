@@ -182,3 +182,10 @@ Um HTML-Formulare benutzerfreundlich und barrierefrei zu gestalten, sollten folg
 - **Barrierefreie Farbkontraste**: Achte auf ausreichende Kontraste bei Formularfeldern, damit auch Personen mit Sehbehinderungen die Inhalte gut erkennen können.
 
 Barrierefreie und gut gestaltete Formulare tragen zu einer besseren Benutzererfahrung bei und machen es allen Nutzern leicht, die Daten einzugeben und abzuschicken.
+
+---
+
+Videomitschnitt der Vorlesung (rau und ungeschnitten):
+https://youtu.be/5Rka8G1Il6s
+
+https://youtu.be/o1WSCocJwgc
