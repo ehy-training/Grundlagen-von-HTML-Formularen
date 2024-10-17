@@ -186,6 +186,7 @@ Barrierefreie und gut gestaltete Formulare tragen zu einer besseren Benutzererfa
 ---
 
 Videomitschnitt der Vorlesung (rau und ungeschnitten):
+
 https://youtu.be/5Rka8G1Il6s
 
 https://youtu.be/o1WSCocJwgc
